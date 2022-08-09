@@ -7,4 +7,4 @@ Created on Sat Jul 30 18:09:08 2022
 
 from csvsorter import CsvSorter
 c=CsvSorter()
-print(c.csvSorter("file1.csv"))
+print(c.csvSorter("test.csv"))
